@@ -1,0 +1,5 @@
+REF/MATH.d REF/MATH.o: ../REF/MATH.c ../REF/STD_TYPES.h ../REF/MATH.h
+
+../REF/STD_TYPES.h:
+
+../REF/MATH.h:
